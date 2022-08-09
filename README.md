@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sherief622
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning & Cyber Security
 - 🌱 I’m currently learning Computer Science with Artificial Intelligence at the University of Nottingham
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (email): sheriefkhaled@hotmail.com
